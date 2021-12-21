@@ -17,7 +17,7 @@ Patika.dev Veri Yapıları ve Algoritmalar Modülü Projeleri
 
 [2,6,16,18,22,27] n-5 (bu adımda 22' den itibaren tekrar gezdi fakat 22 zaten en küçük)
 
-(n*(n+1))/2 => O(
+O(n^2) = 36
 
 # 2)
 
