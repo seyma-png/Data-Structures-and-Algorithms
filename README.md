@@ -19,6 +19,8 @@ Patika.dev Veri Yapıları ve Algoritmalar Modülü Projeleri
 
 O(n^2) = 36
 
+Dizi sıralandıktan sonra 18 sayısı Average Case kapsamına girer. 
+
 # 2)
 
 [7,3,5,8,2,9,4,15,6] 
