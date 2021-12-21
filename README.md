@@ -25,7 +25,12 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamına girer.
 
 [7,3,5,8,2,9,4,15,6] 
 
-1. adım: [
+Insertion Sort algoritmasına göre ilk dört adım aşağıdaki gibidir:
+
+1. adım: [2,3,5,8,7,9,4,15,6]
+2. adım: [2,3,5,8,7,9,4,15,6]
+3. adım: [2,3,4,8,7,9,5,15,6]
+4. adım: [2,3,4,5,7,9,8,15,6]
 
 
 
