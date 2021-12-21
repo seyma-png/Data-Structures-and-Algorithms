@@ -67,4 +67,4 @@ Sıralı hali : [0,1,2,3,4,5,6,7,8,9]
                      /      \           /
                     0        4         6
                        
-Root 5'tir. Solunda 2 bulunur. Sağında 8 bulunur.
+Root 5'dir. Solunda 2, sağında 8 bulunur.
