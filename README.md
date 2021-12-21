@@ -51,4 +51,6 @@ Insertion Sort algoritmasına göre ilk dört adım aşağıdaki gibidir:
 
 8,11,12,16,21,22
 
+Time complexity: O(nlogn)
+
 # Binary Search
