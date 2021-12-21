@@ -12,3 +12,5 @@ Patika.dev Veri Yapıları ve Algoritmalar Modülü Projeleri
 11,16,21    |    8,11,22
 
 8,11,12,16,21,22
+
+# Insertion Sort
