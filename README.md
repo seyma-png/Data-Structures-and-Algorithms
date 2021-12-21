@@ -1,7 +1,7 @@
 # Veri-Yap-lar-ve-Algoritmalar
 Patika.dev Veri Yapıları ve Algoritmalar Modülü Projeleri
 
-#Insertion Sort
+# Insertion Sort
 
 [22,27,16,2,18,6]
 
@@ -18,4 +18,4 @@ Patika.dev Veri Yapıları ve Algoritmalar Modülü Projeleri
 
 8,11,12,16,21,22
 
-#Binary Search
+# Binary Search
